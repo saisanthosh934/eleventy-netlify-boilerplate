@@ -4,6 +4,6 @@
     "waitForTimeout": 1000
   }, {
     "name": "Snapshot two",
-    "url": "http://localhost:8080/blog/",
+    "url": "http://localhost:8080/blog/"
     
   }]
